@@ -1,4 +1,4 @@
-# Tesla's Good Chargers Frontend
+# Ru Tesla Chargers Frontend
 
 Интерфейсное приложение для поиска и просмотра зарядных станций Tesla с возможностью фильтрации, отзывами и интерактивными картами.
 
@@ -25,8 +25,8 @@
 1. Клонируйте репозиторий:
 
 ```
-git clone https://github.com/your-username/teslas-good-chargers-frontend.git
-cd teslas-good-chargers-frontend
+git clone https://github.com/herenickname/ru-tesla-chargers.git
+cd ru-tesla-chargers
 ```
 
 2. Установите зависимости:
@@ -73,11 +73,3 @@ npm run build
 ├── .env                  # Переменные окружения
 └── package.json          # Зависимости проекта
 ```
-
-## Лицензия
-
-MIT
-
-## Автор
-
-Ваше имя - [ваша почта](mailto:your.email@example.com)
